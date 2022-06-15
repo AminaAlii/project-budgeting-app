@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "435854912564",
+    "project_id": "budget-app-c7e10",
+    "storage_bucket": "budget-app-c7e10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435854912564:android:906de42defda267a0bee61",
+        "android_client_info": {
+          "package_name": "com.muqeetkhan.budgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435854912564-r9lgjdenl994kheorvj9dci7hqvg3g59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdMMxtpOtPvLj5yIzsRlb_EtL4fV5HUCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435854912564-r9lgjdenl994kheorvj9dci7hqvg3g59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435854912564-k8abmlncgetrputs0s0ck27dol8fsgke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muqeetkhan.budgetapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
